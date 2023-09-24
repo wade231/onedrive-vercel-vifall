@@ -55,10 +55,11 @@ module.exports = {
       name: 'Telegram',
       link: 'https://t.me/Animebotinfo',
     },
-     {
-      name: '➡️ NEXT PAGE',
-      link: 'https://tvseriescloud2.vercel.app',
-    },
+   {
+  name: '➡️ NEXT PAGE',
+  link: 'https://tvseriescloud2.vercel.app',
+  target: '_self'
+},
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
