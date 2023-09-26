@@ -38,7 +38,7 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    '<div id="sfcjfe9pz1n3tka1fqcna21tw5muglxdyur"></div><script type="text/javascript" src="https://counter6.optistats.ovh/private/counter.js?c=jfe9pz1n3tka1fqcna21tw5muglxdyur&down=async" async></script><noscript><a href="https://www.freecounterstat.com" title="free hit counter"><img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=jfe9pz1n3tka1fqcna21tw5muglxdyur" border="0" title="free hit counter" alt="free hit counter"></a></noscript>.',
+    '<a href="https://tvseriescloud2.vercel.app" target="_self" rel="noopener noreferrer" style="font-size: 15px;"> ➡️ </a>.',
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
