@@ -9,12 +9,8 @@ const createFooterMarkup = () => {
 const Footer = () => {
   return (
 <div
-  className="w-full p-4 text-center text-xs font-medium text-gray-400 dark:border-gray-500/30"
-  style={{
-    border: '1px solid gray', // Add a gray border
-    borderRadius: '8px',     // Add rounded corners
-    height: '6rem'           // Make the footer six times taller (adjust the value as needed)
-  }}
+  className="w-full border-t border-gray-900/10 p-4 text-center text-xs font-medium text-gray-400 dark:border-gray-500/30"
+  style={{ lineHeight: '10' }}
   dangerouslySetInnerHTML={createFooterMarkup()}
 ></div>
 
